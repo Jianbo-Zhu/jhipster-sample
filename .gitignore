@@ -16,6 +16,11 @@ node_modules/
 .sass-cache/
 
 ######################
+# Bower
+######################
+src/main/webapp/bower_components/
+
+######################
 # Eclipse
 ######################
 *.pydevproject
